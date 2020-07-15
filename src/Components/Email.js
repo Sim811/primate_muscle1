@@ -1,5 +1,5 @@
 import React from "react";
-import { Form, Container, Header } from "semantic-ui-react";
+import { Form, Container } from "semantic-ui-react";
 
 
 class Email extends React.Component {
