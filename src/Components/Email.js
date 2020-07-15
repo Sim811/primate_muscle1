@@ -26,7 +26,7 @@ class Email extends React.Component {
           />
           <Form.TextArea 
             label="Order"
-            placeholder="Design#/Size/Quantity"
+            placeholder="Design#/Size/Shirt Color/Quantity"
             type="text"
             name="order"
             // width="8"
